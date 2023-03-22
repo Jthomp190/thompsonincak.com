@@ -54,8 +54,8 @@ th, td {
 }
 
 table {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 15vw;
+  margin-right: 15vw;
   padding: 2vh;
   color: white;
   margin-top: 5vh;
