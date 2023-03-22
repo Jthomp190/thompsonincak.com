@@ -186,7 +186,7 @@ table {
 .cardword {
   max-width: 52ch;
   padding: 1vh;
-  line-height: normal;
+  line-height: 2vh;
   margin-top: 1vh;
 }
 
