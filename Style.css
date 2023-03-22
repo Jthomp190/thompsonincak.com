@@ -91,7 +91,8 @@ table {
 
   /*  this is where the magic happens:  */
   background-attachment: fixed;
-
+  position: -webkit-sticky; 
+  position: sticky;
   background-image: url(Images/Loader.Truck.jpg);
   background-position: center;
   -webkit-background-size: cover;
