@@ -92,7 +92,7 @@ table {
   /*  this is where the magic happens:  */
   background-attachment: fixed;
 
-  background-image: url("Images/Loader.Truck.m1.jpg");
+  background-image: url(Images/Loader.Truck.m1.jpg);
   background-position: center;
   background-size: cover;
   color: var(--color);
