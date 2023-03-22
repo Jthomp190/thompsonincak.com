@@ -166,11 +166,12 @@ table {
 }
 
 .card:nth-of-type(3) .card-img {
-  background-image: url(Images/Asphalt1.jpeg));
+  background-image: url();
 }
 
 .card:nth-of-type(4) .card-img {
-  background-image: url();}
+  background-image: url();
+}
 
 .cardword {
   max-width: 52ch;
