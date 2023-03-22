@@ -67,7 +67,7 @@ table {
   margin-left: 0px;
   padding: 0px;
   max-width: 110%;
-  max-height: 110%;
+  max-height: auto;
   align: left;
 }
 
