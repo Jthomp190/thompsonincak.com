@@ -94,7 +94,7 @@ table {
 
   background-image: url(Images/Loader.Truck.m1.jpg);
   background-position: center;
-  background-size: cover;
+  background-size: auto;
   color: var(--color);
   row-gap: 4rem;
 
