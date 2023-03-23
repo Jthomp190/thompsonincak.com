@@ -92,7 +92,7 @@ table {
   -webkit-align-items: center;
 
   /*  this is where the magic happens:  */
-  background-attachment: fixed;
+  
   position: -webkit-sticky; 
   position: sticky;
   background-image: url(Images/Loader.Truck.jpg);
