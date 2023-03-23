@@ -54,8 +54,8 @@ th, td {
 }
 
 table {
-  margin-left: 15vw;
-  margin-right: 15vw;
+  margin-left: 3vw;
+  margin-right: 3vw;
   padding: 2vh;
   color: white;
   margin-top: 5vh;
@@ -99,23 +99,18 @@ table {
   background-size: cover;
   color: var(--color);
   row-gap: 4rem;
-
   text-align: center;
 }
 
 
 .buffer {
-  display: flex;
   width: 100%;
   min-height: 10vh;
   background-color: #545454;
-  flex-direction: row;
-  flex-wrap: wrap;
+  
 }
 
-.tableblock{
-   min-height:40px;
-}
+
 
 .blank {
 	height: 10vh;
@@ -128,6 +123,7 @@ table {
   width: 20%;
   text-align: center;
   border-radius: 25px;
+  padding-bottom: 8vh;
 }
 
 
@@ -299,7 +295,4 @@ table {
 
 
 /*End of Top Nav Section 11111111111111111111111111111111111111111111111 */
-
-
-
 
