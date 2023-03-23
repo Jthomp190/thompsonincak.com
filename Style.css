@@ -107,7 +107,9 @@ table {
 .buffer {
   width: 100%;
   min-height: 10vh;
-  background-color: #545454
+  background-color: #545454;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .tableblock{
