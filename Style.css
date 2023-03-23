@@ -88,6 +88,8 @@ table {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  -webkit-justify-content: center;
+  -webkit-align-items: center;
 
   /*  this is where the magic happens:  */
   background-attachment: fixed;
