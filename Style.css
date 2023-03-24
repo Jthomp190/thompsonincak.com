@@ -13,10 +13,9 @@ a {
   border-radius: 0.3em;
   background-color: var(--color);
   color: white;
-  font-size: 2vh;
+  font-size: 1.5vh;
   font-weight: 700;
-  letter-spacing: 0.5vh;
-  text-decoration: none;
+   text-decoration: none;
   text-transform: uppercase;
 }
 
